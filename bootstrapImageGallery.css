@@ -1,0 +1,18 @@
+body {
+    padding-top: 70px;
+  }
+
+.jumbotron {
+      color: white;
+      background: #ffc9e0;
+      text-align: center;
+}
+
+.navbar {
+margin-bottom: 0px;
+}
+.navbar-inverse {
+background: #ffc9e0;
+color: pink;
+}
+
